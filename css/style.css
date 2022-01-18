@@ -43,7 +43,7 @@ p {
 }
 
 .hero h2 {
-  font-family: "poppins", sans-serif;
+  font-family: var(--default-font-family);
   font: #272142;
   font-weight: normal;
   line-height: 2;
