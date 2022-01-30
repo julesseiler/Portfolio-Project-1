@@ -157,4 +157,8 @@ nav li.active {
     text-align: center;
     padding: 0;
   }
+
+  nav a {
+    font-size: 14px;
+  }
 }
